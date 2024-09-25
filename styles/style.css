@@ -73,7 +73,6 @@
   inset-inline-end: 9px;
   inset-block-start: 8px;
   opacity: var(--opacity);
-  /*попробовать потом задать в %*/
 }
 
 .decorated-zone::after {
