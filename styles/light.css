@@ -6,7 +6,7 @@
 
 .page.theme_light {
   --background-image: url(../images/cover-image-light.png);
-  background-color: var(--background-color);
+  background-color: #FFF1F7;
   --accent-color: #ff8dcb;
   --color-header-title: #ffc2e6;
   --text-color-title: #353430;
@@ -29,7 +29,7 @@
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    background-color: var(--background-color);
+    background-color: #FFF1F7;
     --accent-color: #ff8dcb;
     --color-header-title: #ffc2e6;
     --text-color-title: #353430;

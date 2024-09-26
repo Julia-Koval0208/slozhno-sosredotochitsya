@@ -3,18 +3,13 @@
   здесь окажутся стили, которые нужно переопределить принудительно,
   переключая тему
 */
-/*:root {
-  --accent-color: #ff0070;
-  --background-color: ##000028;
-  --color-header-title: #DB00FF;
-  --text-color: #000028;
-}*/
+
 
 .page.theme_dark {
   --background-image: url(../images/cover-image-dark.png);
-  background-color: var(--background-color);
+  --background-color: #000028;
   --accent-color: #ff0070;
-  --background-color: ##000028;
+  --background-color: #000028;
   --color-header-title: #db00ff;
   --text-color: #ff0070;
   --text-color-title: #000028;
@@ -34,7 +29,7 @@
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
-    background-color: var(--background-color);
+    --background-color: #000028;
     --accent-color: #ff0070;
     --background-color: ##000028;
     --color-header-title: #db00ff;
