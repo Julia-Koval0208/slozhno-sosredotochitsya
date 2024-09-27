@@ -1,7 +1,7 @@
 /* Основные стили проекта. Это стили для темы, которую вы верстаете первой. */
 
 .page {
-  padding: 2.6%;
+  padding: 2.6% 2.6% 0 2.6%
   font-family: var(--main-font, sans-serif);
   background-image: var(--background-image);
   background-repeat: no-repeat;
