@@ -22,7 +22,7 @@
   */
 }
 
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
   :root {
     --background-image: url(../images/cover-image-dark.png);
     background-repeat: no-repeat;
@@ -39,4 +39,4 @@
     --content-text-color: #f1b2ce;
     --border-transperent: rgba(255, 0, 112, 0.4);
   }
-}
+}*/

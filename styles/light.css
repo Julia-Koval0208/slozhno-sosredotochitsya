@@ -25,11 +25,7 @@
 @media (prefers-color-scheme: light) {
   :root {
     --background-image: url(../images/cover-image-light.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    --background-color: #FFF1F7;
+    ---background-color: #FFF1F7;
     --accent-color: #ff8dcb;
     --color-header-title: #ffc2e6;
     --text-color-title: #353430;

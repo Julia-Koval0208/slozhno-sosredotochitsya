@@ -213,6 +213,7 @@
 }
 
 .picture {
+  line-height: 1;
   inline-size: 100%;
 }
 
@@ -396,6 +397,7 @@ a:hover {
     justify-self: center;
     grid-column-start: 1;
     grid-row-start: 1;
+    margin-block-start: -7px;
   }
 
   .header__theme-menu-list {
@@ -404,7 +406,7 @@ a:hover {
   }
 
   .header_title {
-    margin-block-end: 15px;
+    margin-block-end: 22px;
   }
   .section_text {
     min-inline-size: 491px;
