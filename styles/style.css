@@ -183,7 +183,7 @@
 
 .section_title {
   font-weight: 700;
-  color: var(--text-color);
+  color: var(--text-color-title);
   font-size: 18px;
   line-height: 23px;
   font-style: normal;
@@ -195,7 +195,7 @@
   font-size: 18px;
   line-height: 23px;
   font-style: normal;
-  margin-block-end: 10px;
+  margin-block-end: 14px;
 }
 
 .section_title_text {
