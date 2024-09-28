@@ -9,7 +9,7 @@
   --color-header-title: #db00ff;
   --text-color: #ff0070;
   --text-color-title: #000028;
-  --main-font: "IBM Plex mono", "Arial", "Helvetica", "sans-serif";
+  --main-font: "IBM Plex mono", "Arial", "Helvetica", sans-serif;
   --opacity: 1;
   --content-text-color: #f1b2ce;
   --border-transperent: rgba(255, 0, 112, 0.4);
