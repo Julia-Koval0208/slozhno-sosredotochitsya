@@ -245,7 +245,8 @@ a {
   position: absolute;
   z-index: -1;
   color: var(--accent-color);
-  inset-inline-end: -3px;
+  inset-inline-end: -1px;
+  inset-block-start: 3px;
 }
 
 .content-section_five_tips a::after {
@@ -254,6 +255,7 @@ a {
   z-index: -1;
   color: var(--accent-color);
   inset-inline-start: 3px;
+  inset-block-start: 1px;
 }
 
 a:hover {
